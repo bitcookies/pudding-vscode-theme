@@ -1,7 +1,7 @@
 {
     "name": "pudding-vscode-theme",
     "displayName": "Pudding Theme",
-    "description": "Pudding Color Theme for VS Code",
+    "description": "Pudding Color Theme for Visual Studio Code",
     "version": "0.2.0",
     "preview": true,
 	"publisher": "Bitcookies",

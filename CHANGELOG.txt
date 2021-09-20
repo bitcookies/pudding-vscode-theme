@@ -1,6 +1,0 @@
-https://code.visualstudio.com/api/references/theme-color#side-bar
-
-侧边栏（完成）
-活动栏（完成）
-按钮控制（完成）
-下拉控件（Windows独占设置）

@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="icon.png" align="center" alt="Pudding Theme" />
- <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding Color Theme for Visual Studio Code</p>
+ <h2 align="center">布丁主题</h2>
+ <p align="center">一个二次元风格布丁颜色的 Visual Studio Code 主题</p>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
 
-## 1. Comming Soon
 
-Under development, branch `dev`.
+## 1. 即将到来
+
+正在开发中，分支 `dev`。
 
 ![screenshot](screenshot.jpg)
 
-## 2. License
+## 2. 许可
 
-The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE)
-
+使用 [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE)

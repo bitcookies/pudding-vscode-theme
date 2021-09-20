@@ -1,0 +1,4 @@
+https://code.visualstudio.com/api/references/theme-color#side-bar
+
+侧边栏（完成）
+活动栏（完成）

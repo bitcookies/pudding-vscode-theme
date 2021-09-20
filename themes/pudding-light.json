@@ -1,6 +1,18 @@
 {
 	"name": "Pudding Light",
 	"colors": {
+		"button.background": "#744128",
+		"button.foreground": "#FFFBF3",
+
+		"input.background": "#FFFBF3",
+		"input.foreground": "#744128",
+
+		"scrollbar.shadow": "#CFB8AA",
+		"scrollbarSlider.background": "#744128",
+		"scrollbarSlider.hoverBackground": "#553E3A",
+
+		"minimap.background": "#F7D0C0",
+
 		"editor.background": "#FFFBF3",
 		"editorCursor.foreground": "#000000",
 		"editor.foreground": "#212121",
@@ -15,7 +27,6 @@
 		"activityBar.border": "#F9CB7E",
 		"activityBar.activeBorder": "#744128",
 		"activityBar.activeBackground": "#F9CB7E",
-
 
 		"sideBar.background": "#F7D0C0",
 		"sideBar.foreground": "#55403D",

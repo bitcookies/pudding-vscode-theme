@@ -3,9 +3,14 @@
  <h2 align="center">Pudding Theme</h2>
  <p align="center">A Pudding Color Theme for Visual Studio Code</p>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
+  	<img alt="Market" src="http://vsmarketplacebadge.apphb.com/version-short/Bitcookies.pudding-vscode-theme.svg" />
+  </a>
+  <a href="https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE">
+  	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
+  </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/issues">
   	<img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" />
   </a>
@@ -13,6 +18,7 @@
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
+
 
 ## 1. Pudding Theme
 
@@ -30,10 +36,12 @@ Since this color scheme was originally intended for painting, there may be some 
 
 ## 3. Install
 
-1. Go to VS Marketplace.
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
-   - `Pudding Light`
+
+   + `Pudding Light`
+
    - `Pudding Dark`
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.

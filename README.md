@@ -21,7 +21,7 @@
 
 
 
-## 1. Pudding Theme
+## 1.Pudding Theme
 
 The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light Theme and a Dark Theme.
 
@@ -35,7 +35,7 @@ The color scheme of this theme comes from the original cartoon character, **Pudd
 
 Since this color scheme was originally intended for painting, there may be some problems with inappropriate colors when applied to program themes such as Visual Studio Code, and subsequent updates will be made to optimize and adjust the best style of the theme.
 
-## 3. Install
+## 3.Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme).
 2. Click on the "Install" button.
@@ -47,7 +47,7 @@ Since this color scheme was originally intended for painting, there may be some 
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 4. License
+## 4.License
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 

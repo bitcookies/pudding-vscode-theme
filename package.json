@@ -1,0 +1,43 @@
+{
+    "name": "pudding-vscode-theme",
+    "displayName": "Pudding Theme",
+    "description": "Pudding Color Theme for Visual Studio Code",
+    "version": "1.0.0",
+    "preview": true,
+	"publisher": "Bitcookies",
+    "license": "MIT",
+    "icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bitcookies/pudding-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/bitcookies/pudding-vscode-theme/issues"
+	},
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+		"pudding",
+		"light",
+		"dark"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pudding Light",
+                "uiTheme": "vs",
+                "path": "./themes/pudding-light.json"
+            },
+            {
+                "label": "Pudding Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pudding-dark.json"
+            }
+        ]
+    }
+}

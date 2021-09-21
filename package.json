@@ -2,13 +2,13 @@
     "name": "pudding-vscode-theme",
     "displayName": "Pudding Theme",
     "description": "Pudding Color Theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "preview": true,
 	"publisher": "Bitcookies",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#F9CB7E",
+        "color": "#F7B6B7",
         "theme": "dark"
     },
 	"repository": {

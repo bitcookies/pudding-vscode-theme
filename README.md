@@ -30,7 +30,7 @@ Since this color scheme was originally intended for painting, there may be some 
 
 ## 3. Install
 
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme).
+1. Go to VS Marketplace.
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
    - `Pudding Light`

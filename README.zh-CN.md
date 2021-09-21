@@ -1,8 +1,9 @@
 <p align="center">
- <img width="100px" src="icon.png" align="center" alt="Pudding Theme" />
+ <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
  <p align="center">A Pudding Color Theme for Visual Studio Code</p>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
@@ -25,13 +26,13 @@
 
 Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，一款深色主题：
 
-![screenshot](screenshot-1.jpg)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-1.jpg)
 
 ## 2.配色方案
 
 此主题的配色方案，来自于原创的二次元人物 —— **布丁（Pudding）**。提取布丁绘画形象中的颜色，然后使用这些绘画配色开发了这款布丁主题。
 
-![screenshot](screenshot-2.png)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-2.png)
 
 由于此配色最初是为了绘画，因此应用到 Visual Studio Code 等的程序主题中，可能存在一些颜色不合适的问题，后续将会不断进行更新优化，调整主题的最佳样式。
 
@@ -51,4 +52,4 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 布丁人物立绘版权归作者所有：[Haoning Wu](https://github.com/windmill0503)。
 
-<img width="100%" src="screenshot-3.jpg" align="center" alt="Pudding" />
+<img width="100%" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-3.jpg" align="center" alt="Pudding" />

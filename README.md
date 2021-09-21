@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="icon.png" align="center" alt="Pudding Theme" />
+ <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
  <p align="center">A Pudding Color Theme for Visual Studio Code</p>
 </p>
@@ -20,17 +20,18 @@
 </p>
 
 
+
 ## 1. Pudding Theme
 
 The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light Theme and a Dark Theme.
 
-![screenshot](screenshot-1.jpg)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-1.jpg)
 
 ## 2.Color Scheme
 
 The color scheme of this theme comes from the original cartoon character, **Pudding**. The colors in the painted image of Pudding were extracted and then used to develop this pudding theme.
 
-![screenshot](screenshot-2.png)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-2.png)
 
 Since this color scheme was originally intended for painting, there may be some problems with inappropriate colors when applied to program themes such as Visual Studio Code, and subsequent updates will be made to optimize and adjust the best style of the theme.
 
@@ -52,4 +53,4 @@ The code is available under the [MIT license](https://github.com/bitcookies/winr
 
 Pudding character are copyrighted to the author: [Haoning Wu](https://github.com/windmill0503).
 
-<img width="100%" src="screenshot-3.jpg" align="center" alt="Pudding" />
+<img width="100%" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-3.jpg" align="center" alt="Pudding" />

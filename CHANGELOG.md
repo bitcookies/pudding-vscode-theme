@@ -1,9 +1,17 @@
-# Change Log
+## 1.0.3
 
-All notable changes to the "pudding" extension will be documented in this file.
++ Add CHANGELOG
++ Update README
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.2
 
-## [Unreleased]
++ Update README
+
+## 1.0.1
+
+- Fix missing color error
+- Modify Gallery Banner color
+
+## 1.0.0
 
 - Initial release

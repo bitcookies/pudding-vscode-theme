@@ -29,11 +29,23 @@ The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light
 
 ## 2.Color Scheme
 
+### 2.1 Color
+
 The color scheme of this theme comes from the original cartoon character, **Pudding**. The colors in the painted image of Pudding were extracted and then used to develop this pudding theme.
 
 ![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-2.png)
 
 Since this color scheme was originally intended for painting, there may be some problems with inappropriate colors when applied to program themes such as Visual Studio Code, and subsequent updates will be made to optimize and adjust the best style of the theme.
+
+### 2.2 Suggestion
+
+*Choosing a light theme during the day, and a dark theme at night* is not a good choice.
+
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-4.png)
+
+The choice between light and dark themes does not depend on whether it is day or night, **but on the intensity of light in your current environment**. 
+
+Even at night, if you are in a bright environment, it is still recommended that you use a light color theme. Because in a bright environment, using a dark theme, your eyes will keep adjusting between the two brightnesses, which will easily cause eye fatigue.
 
 ## 3.Install
 

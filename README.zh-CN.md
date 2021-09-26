@@ -29,11 +29,23 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 ## 2.配色方案
 
+### 2.1 配色来源
+
 此主题的配色方案，来自于原创的二次元人物 —— **布丁（Pudding）**。提取布丁绘画形象中的颜色，然后使用这些绘画配色开发了这款布丁主题。
 
 ![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-2.png)
 
 由于此配色最初是为了绘画，因此应用到 Visual Studio Code 等的程序主题中，可能存在一些颜色不合适的问题，后续将会不断进行更新优化，调整主题的最佳样式。
+
+### 2.2 主题建议
+
+“白天选择浅色主题，晚上选择深色主题”，这并不是一个好的选择。
+
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-4.png)
+
+浅色和深色主题的选择，不取决于白天还是晚上，**而取决于你当前所处环境的光线强度**。
+
+即使在夜间，如果你处于明亮的环境中，依然建议你使用浅色主题。因为在明亮环境中，使用深色主题，眼睛会不停在两种亮度下调整，容易造成眼睛的疲劳。
 
 ## 3.安装
 

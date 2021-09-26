@@ -1,3 +1,8 @@
+## 1.0.4
+
++ Adjust `statusBar.noFolderBackground` color
++ Update README
+
 ## 1.0.3
 
 + Add CHANGELOG

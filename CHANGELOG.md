@@ -1,6 +1,11 @@
+## 1.0.5
+
++ Adjust the dark theme
++ Update README feedback
+
 ## 1.0.4
 
-+ Adjust Light Theme `statusBar.noFolderBackground` color
++ Fix the color setting of `statusBar`
 + Update README
 
 ## 1.0.3

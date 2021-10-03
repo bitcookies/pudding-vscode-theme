@@ -59,7 +59,17 @@ Even at night, if you are in a bright environment, it is still recommended that 
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 4.License
+## 4.Feedback
+
+The theme of the color scheme must still have a lot of shortcomings, if possible, you can give some feedback and comments here. Or, your favorite clothing apparel and colors, you can make suggestions for feedback:
+
+- [Github Issues](https://github.com/bitcookies/pudding-vscode-theme/issues)
+
+- [VS Market](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme&ssr=false#review-details)
+
+In the future I will also paint more characters clothing style, with the update of the pudding clothing stand, the future will launch more thematic color scheme.
+
+## 5.License
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 

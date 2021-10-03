@@ -60,7 +60,6 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 主题的配色一定还会存在很多的不足，如果可以的话，您可以在此反馈一些建议和意见。或者是，你喜欢的衣装服饰和颜色，都可以进行建议反馈：
 
 - [Github Issues](https://github.com/bitcookies/pudding-vscode-theme/issues)
-
 - [VS Market](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme&ssr=false#review-details)
 
 未来我也会绘画更多的人物衣装样式，随着布丁衣装立绘的更新，未来会推出更多主题配色。

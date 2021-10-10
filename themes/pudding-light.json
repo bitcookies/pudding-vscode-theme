@@ -40,7 +40,7 @@
     "progressBar.background": "#F9CB7E",
     
     "titleBar.activeForeground": "#000",
-    "titleBar.activeBackground": "#DB8E51",
+    "titleBar.activeBackground": "#DB8846",
     "titleBar.inactiveForeground": "#484848",
     "titleBar.inactiveBackground": "#E59B61",
     "titleBar.border": "#A88E71",
@@ -97,16 +97,17 @@
     "editorGroupHeader.tabsBackground": "#EDC89F",
     "editorGroupHeader.tabsBorder": "#A88E71",
     "editorGroup.border": "#A88E71",
+    "editorGroup.dropBackground": "#A2DF9450",
     
     "tab.activeForeground": "#55403D",
     "tab.inactiveForeground": "#6A737D",
     "tab.inactiveBackground": "#EDDCD2",
-    "tab.activeBackground": "#FEFBED",
-    "tab.hoverBackground": "#FCE5D5",
+    "tab.activeBackground": "#F9ECDD",
+    "tab.hoverBackground": "#FEFBED",
     "tab.unfocusedHoverBackground": "#FFF",
     "tab.border": "#A88E71",
     "tab.unfocusedActiveBorderTop": "#EDC89F",
-    "tab.activeBorder": "#FEFBED",
+    "tab.activeBorder": "#F9ECDD",
     "tab.unfocusedActiveBorder": "#FFF",
     "tab.activeBorderTop": "#F9826C",
     
@@ -152,6 +153,8 @@
     "scrollbarSlider.background": "#74412833",
     "scrollbarSlider.hoverBackground": "#74412844",
     "scrollbarSlider.activeBackground": "#74412888",
+
+    "minimap.background": "#FDF0E9",
     
     "editorOverviewRuler.border": "#F6F8FA",
 

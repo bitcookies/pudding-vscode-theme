@@ -1,3 +1,9 @@
+## 1.0.6
+
++ Adjust the titleBar color
++ Adjust the minimap background
++ Add editorGroup background
+
 ## 1.0.5
 
 + Adjust the light and dark theme

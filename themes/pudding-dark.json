@@ -49,7 +49,7 @@
     "activityBar.inactiveForeground": "#F9CB7E",
     "activityBar.background": "#434260",
     "activityBarBadge.foreground": "#FDECE5",
-    "activityBarBadge.background": "#0366D6",
+    "activityBarBadge.background": "#A9B9AA",
     "activityBar.activeBorder": "#F9826C",
     "activityBar.border": "#313549",
 
@@ -97,16 +97,17 @@
     "editorGroupHeader.tabsBackground": "#434260",
     "editorGroupHeader.tabsBorder": "#313549",
     "editorGroup.border": "#313549",
+    "editorGroup.dropBackground": "#A2DF9450",
 
     "tab.activeForeground": "#E1E4E8",
     "tab.inactiveForeground": "#959DA5",
-    "tab.inactiveBackground": "#56516D",
+    "tab.inactiveBackground": "#434260",
     "tab.activeBackground": "#1B1C2B",
-    "tab.hoverBackground": "#423647",
+    "tab.hoverBackground": "#313549",
     "tab.unfocusedHoverBackground": "#434260",
     "tab.border": "#313549",
     "tab.unfocusedActiveBorderTop": "#313549",
-    "tab.activeBorder": "#434260",
+    "tab.activeBorder": "#1B1C2B",
     "tab.unfocusedActiveBorder": "#434260",
     "tab.activeBorderTop": "#F9826C",
 
@@ -152,6 +153,8 @@
     "scrollbarSlider.background": "#31354933",
     "scrollbarSlider.hoverBackground": "#31354944",
     "scrollbarSlider.activeBackground": "#31354988",
+
+    "minimap.background": "#27293C",
 
     "editorOverviewRuler.border": "#313549",
 

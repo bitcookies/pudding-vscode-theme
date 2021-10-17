@@ -1,7 +1,15 @@
+## 1.0.7
+
++ Adjust button color
++ Adjust minimap background
++ Adjust editor.selection color
++ Adjust panel background
++ Adjust textLink color
+
 ## 1.0.6
 
 + Adjust the titleBar color
-+ Adjust the minimap background
++ Adjust minimap background
 + Add editorGroup background
 
 ## 1.0.5

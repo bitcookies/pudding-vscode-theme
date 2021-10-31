@@ -1,3 +1,7 @@
+## 1.0.8
+
++ Adjust scrollbar slider color
+
 ## 1.0.7
 
 + Adjust button color

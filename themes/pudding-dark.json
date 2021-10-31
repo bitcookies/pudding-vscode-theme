@@ -49,7 +49,7 @@
     "activityBar.inactiveForeground": "#F9CB7E",
     "activityBar.background": "#434260",
     "activityBarBadge.foreground": "#434260",
-    "activityBarBadge.background": "#F9CB7E",
+    "activityBarBadge.background": "#F7B6B7",
     "activityBar.activeBorder": "#F9826C",
     "activityBar.border": "#313549",
 
@@ -152,8 +152,8 @@
     "diffEditor.removedTextBackground": "#d73a4930",
 
     "scrollbar.shadow": "#0008",
-    "scrollbarSlider.background": "#31354933",
-    "scrollbarSlider.hoverBackground": "#31354944",
+    "scrollbarSlider.background": "#31354966",
+    "scrollbarSlider.hoverBackground": "#31354980",
     "scrollbarSlider.activeBackground": "#31354988",
 
     "minimap.background": "#27293CE0",

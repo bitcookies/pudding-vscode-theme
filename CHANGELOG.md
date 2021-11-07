@@ -1,3 +1,8 @@
+## 1.0.9
+
++ Fix status bar color
++ Fix editor widget color
+
 ## 1.0.8
 
 + Adjust scrollbar slider color

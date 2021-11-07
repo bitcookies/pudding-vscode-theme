@@ -49,7 +49,7 @@
     "activityBar.inactiveForeground": "#F9CB7E",
     "activityBar.background": "#434260",
     "activityBarBadge.foreground": "#434260",
-    "activityBarBadge.background": "#F7B6B7",
+    "activityBarBadge.background": "#F9CB7E",
     "activityBar.activeBorder": "#F9826C",
     "activityBar.border": "#313549",
 
@@ -87,12 +87,12 @@
     "quickInput.foreground": "#E1E4E8",
 
     "statusBar.foreground": "#D0D2DA",
-    "statusBar.background": "#24292E",
+    "statusBar.background": "#434260",
     "statusBar.border": "#313549",
-    "statusBar.noFolderBackground": "#24292E",
+    "statusBar.noFolderBackground": "#434260",
     "statusBar.debuggingBackground": "#931C06",
     "statusBar.debuggingForeground": "#FFF",
-    "statusBarItem.prominentBackground": "#282E34",
+    "statusBarItem.prominentBackground": "#313549",
     
     "editorGroupHeader.tabsBackground": "#434260",
     "editorGroupHeader.tabsBorder": "#313549",
@@ -118,7 +118,9 @@
 
     "editor.foreground": "#E1E4E8",
     "editor.background": "#1B1C2B",
+
     "editorWidget.background": "#1F2428",
+    
     "editor.foldBackground": "#58606915",
     "editor.lineHighlightBackground": "#2B3036",
     "editorLineNumber.foreground": "#444D56",

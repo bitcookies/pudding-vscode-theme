@@ -92,7 +92,7 @@
     "statusBar.noFolderBackground": "#434260",
     "statusBar.debuggingBackground": "#F9826C",
     "statusBar.debuggingForeground": "#FFF",
-    "statusBarItem.prominentBackground": "#e8eaed",
+    "statusBarItem.prominentBackground": "#313549",
 
     "editorGroupHeader.tabsBackground": "#EDC89F",
     "editorGroupHeader.tabsBorder": "#A88E71",
@@ -118,7 +118,9 @@
 
     "editor.foreground": "#24292E",
     "editor.background": "#F9ECDD",
-    "editorWidget.background": "#DB8E5280",
+
+    "editorWidget.background": "#F9CB7E",
+
     "editor.foldBackground": "#1B1F2311",
     "editor.lineHighlightBackground": "#F9CB7E80",
     "editorLineNumber.foreground": "#1B1F234D",

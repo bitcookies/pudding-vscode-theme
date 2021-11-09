@@ -49,7 +49,7 @@
     "activityBar.inactiveForeground": "#F9CB7E",
     "activityBar.background": "#434260",
     "activityBarBadge.foreground": "#434260",
-    "activityBarBadge.background": "#F9CB7E",
+    "activityBarBadge.background": "#F7B6B7",
     "activityBar.activeBorder": "#F9826C",
     "activityBar.border": "#313549",
 
@@ -71,6 +71,10 @@
     "list.focusBackground": "#044289",
 
     "tree.indentGuidesStroke": "#2F363D",
+
+    "banner.background": "#1B1C2B",
+    "banner.foreground": "#EFEFEF",
+    "banner.iconForeground": "#4794DE",
 
     "notificationCenterHeader.foreground": "#959DA5",
     "notificationCenterHeader.background": "#24292E",
@@ -97,7 +101,7 @@
     "editorGroupHeader.tabsBackground": "#434260",
     "editorGroupHeader.tabsBorder": "#313549",
     "editorGroup.border": "#313549",
-    "editorGroup.dropBackground": "#A2DF9450",
+    "editorGroup.dropBackground": "#EDC89F50",
 
     "tab.activeForeground": "#E1E4E8",
     "tab.inactiveForeground": "#959DA5",

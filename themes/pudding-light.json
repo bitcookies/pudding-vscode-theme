@@ -46,7 +46,7 @@
     "titleBar.border": "#A88E71",
 
     "activityBar.foreground": "#744128",
-    "activityBar.inactiveForeground": "#F9CB7E",
+    "activityBar.inactiveForeground": "#FCEF94",
     "activityBar.background": "#DC975A",
     "activityBarBadge.foreground": "#FDF0E9",
     "activityBarBadge.background": "#434260",
@@ -71,6 +71,10 @@
     "list.focusBackground": "#CCE5FF",
 
     "tree.indentGuidesStroke": "#A88E71",
+
+    "banner.background": "#56516D",
+    "banner.foreground": "#EFEFEF",
+    "banner.iconForeground": "#F7B6B7",
     
     "notificationCenterHeader.foreground": "#6A737D",
     "notificationCenterHeader.background": "#A88E71",
@@ -97,7 +101,7 @@
     "editorGroupHeader.tabsBackground": "#EDC89F",
     "editorGroupHeader.tabsBorder": "#A88E71",
     "editorGroup.border": "#A88E71",
-    "editorGroup.dropBackground": "#A2DF9450",
+    "editorGroup.dropBackground": "#43426040",
     
     "tab.activeForeground": "#55403D",
     "tab.inactiveForeground": "#6A737D",

@@ -1,17 +1,24 @@
+## 1.1.0
++ Add banner color
++ Adjust editorGroup drop background
++ Adjust activityBar badge background
++ Adjust activityBar inactiveForeground
++ Update README
+
 ## 1.0.9
 
-+ Fix status bar color
++ Fix statusBar color
 + Fix editor widget color
 
 ## 1.0.8
 
-+ Adjust scrollbar slider color
++ Adjust scrollBar slider color
 
 ## 1.0.7
 
 + Adjust button color
 + Adjust minimap background
-+ Adjust editor.selection color
++ Adjust editor selection color
 + Adjust panel background
 + Adjust textLink color
 
@@ -28,7 +35,7 @@
 
 ## 1.0.4
 
-+ Fix the color setting of `statusBar`
++ Fix statusBar color
 + Update README
 
 ## 1.0.3
@@ -43,7 +50,6 @@
 ## 1.0.1
 
 - Fix missing color error
-- Modify Gallery Banner color
 
 ## 1.0.0
 

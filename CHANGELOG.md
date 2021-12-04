@@ -1,3 +1,6 @@
+## 1.1.1
++ Adjust scrollbar slider background
+
 ## 1.1.0
 + Add banner color
 + Adjust editorGroup drop background

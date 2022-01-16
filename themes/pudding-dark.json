@@ -139,9 +139,9 @@
     "editor.findMatchHighlightBackground": "#FFD33D22",
     "editor.linkedEditingBackground": "#3392FF22",
     
-    "editor.inactiveSelectionBackground": "#F9CB7E22",
-    "editor.selectionBackground": "#F9CB7E44",
-    "editor.selectionHighlightBackground": "#DB8E5133",
+    "editor.inactiveSelectionBackground": "#F9CB7E30",
+    "editor.selectionBackground": "#F9CB7E50",
+    "editor.selectionHighlightBackground": "#DB8E5140",
     "editor.selectionHighlightBorder": "#DB8E5100",
 
     "editor.wordHighlightBackground": "#17E5E600",

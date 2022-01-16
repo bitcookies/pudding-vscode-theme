@@ -4,7 +4,9 @@
  <p align="center">A Pudding Color Theme for Visual Studio Code</p>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
+  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
+  	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
+  </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
   	<img alt="Market" src="https://vsmarketplacebadge.apphb.com/version-short/Bitcookies.pudding-vscode-theme.svg" />
   </a>
@@ -18,17 +20,13 @@
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
-
-
-
-
-## 1.Pudding Theme
+## 1. Pudding Theme
 
 The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light Theme and a Dark Theme.
 
 ![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-1.jpg)
 
-## 2.Color Scheme
+## 2. Color Scheme
 
 ### 2.1 Color
 
@@ -42,13 +40,11 @@ Since this color scheme was originally intended for painting, there may be some 
 
 *Choosing a light theme during the day, and a dark theme at night* is not a good choice.
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-4.png)
-
 The choice between light and dark themes does not depend on whether it is day or night, **but on the intensity of light in your current environment**. 
 
 Even at night, if you are in a bright environment, it is still recommended that you use a light color theme. Because in a bright environment, using a dark theme, your eyes will keep adjusting between the two brightnesses, which will easily cause eye fatigue.
 
-## 3.Install
+## 3. Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme).
 2. Click on the "Install" button.
@@ -60,7 +56,7 @@ Even at night, if you are in a bright environment, it is still recommended that 
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 4.Feedback
+## 4. Feedback
 
 The theme of the color scheme must still have a lot of shortcomings, if possible, you can give some feedback and comments here. Or, your favorite clothing apparel and colors, you can make suggestions for feedback:
 
@@ -69,10 +65,14 @@ The theme of the color scheme must still have a lot of shortcomings, if possible
 
 In the future I will also paint more characters clothing style, with the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 5.License
+## 5. Future Theme
+
+|                          Classroom                           |                           Giftbox                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/1-Classroom.jpg" width="240px"> | <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/2-Giftbox.jpg" width="240px"> |
+
+## 6. License
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 
 Pudding character are copyrighted to the author: [Haoning Wu](https://github.com/windmill0503).
-
-<img width="100%" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-3.jpg" align="center" alt="Pudding" />

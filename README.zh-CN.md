@@ -4,7 +4,9 @@
  <p align="center">A Pudding Color Theme for Visual Studio Code</p>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
+  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
+  	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
+  </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
   	<img alt="Market" src="https://vsmarketplacebadge.apphb.com/version-short/Bitcookies.pudding-vscode-theme.svg" />
   </a>
@@ -16,19 +18,17 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
 
-## 1.VSCode 布丁主题
+## 1. VSCode 布丁主题
 
 Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，一款深色主题：
 
 ![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-1.jpg)
 
-## 2.配色方案
+## 2. 配色方案
 
 ### 2.1 配色来源
 
@@ -42,13 +42,11 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 “白天选择浅色主题，晚上选择深色主题”，这并不是一个好的选择。
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-4.png)
-
 浅色和深色主题的选择，不取决于白天还是晚上，**而取决于你当前所处环境的光线强度**。
 
 即使在夜间，如果你处于明亮的环境中，依然建议你使用浅色主题。因为在明亮环境中，使用深色主题，眼睛会不停在两种亮度下调整，容易造成眼睛的疲劳。
 
-## 3.安装
+## 3. 安装
 
 1. 转到 [VS 市场](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme)。
 2. 单击 “安装” 按钮。
@@ -56,7 +54,7 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
    - `Pudding Light`
    - `Pudding Dark`
 
-## 4.反馈
+## 4. 反馈
 
 主题的配色一定还会存在很多的不足，如果可以的话，您可以在此反馈一些建议和意见。或者是，你喜欢的衣装服饰和颜色，都可以进行建议反馈：
 
@@ -65,10 +63,14 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 未来我也会绘画更多的人物衣装样式，随着布丁衣装立绘的更新，未来会推出更多主题配色。
 
-## 5. 许可
+## 5. 未来的主题配色
+
+|                             教室                             |                            礼物盒                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/1-Classroom.jpg" width="240px"> | <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/2-Giftbox.jpg" width="240px"> |
+
+## 6. 许可
 
 主题代码使用 [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE)，但不包含立绘。
 
 布丁人物立绘版权归作者所有：[Haoning Wu](https://github.com/windmill0503)。
-
-<img width="100%" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-3.jpg" align="center" alt="Pudding" />

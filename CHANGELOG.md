@@ -1,3 +1,7 @@
+## 1.1.2
++ Adjust selection background
++ Add two illustrations, will launch a new theme
+
 ## 1.1.1
 + Adjust scrollbar slider background
 

@@ -73,4 +73,4 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 主题代码使用 [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE)，但不包含立绘。
 
-布丁人物立绘版权归作者所有：[Haoning Wu](https://github.com/windmill0503)。
+布丁人物立绘版权归作者所有：[Haoning Wu](https://github.com/pudding0503)。

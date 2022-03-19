@@ -20,6 +20,7 @@
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
+
 ## 1. Pudding Theme
 
 The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light Theme and a Dark Theme.

@@ -76,4 +76,4 @@ In the future I will also paint more characters clothing style, with the update 
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 
-Pudding character are copyrighted to the author: [Haoning Wu](https://github.com/windmill0503).
+Pudding character are copyrighted to the author: [Haoning Wu](https://github.com/pudding0503).

@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/icon.png" align="center" alt="Pudding Icon" />
- <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding Color Theme for Visual Studio Code</p>
+ <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/icon.png" align="center" alt="Pudding Icon" />
+ <h2 align="center"></h2>
+ <p align="center">布丁插画穿衣风格的 Visual Studio Code 主题</p>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
@@ -18,6 +18,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
 </p>
@@ -26,7 +27,7 @@
 
 Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，一款深色主题：
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-1.jpg)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.jpg)
 
 ## 2. 配色方案
 
@@ -34,7 +35,7 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 此主题的配色方案，来自于原创的二次元人物 —— **布丁（Pudding）**。提取布丁绘画形象中的颜色，然后使用这些绘画配色开发了这款布丁主题。
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscoe-theme/screenshot-2.png)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png)
 
 由于此配色最初是为了绘画，因此应用到 Visual Studio Code 等的程序主题中，可能存在一些颜色不合适的问题，后续将会不断进行更新优化，调整主题的最佳样式。
 
@@ -65,9 +66,18 @@ Visual Studio Code 布丁主题目前共有两款配色，一款亮色主题，�
 
 ## 5. 未来的主题配色
 
-|                             教室                             |                            礼物盒                            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/1-Classroom.jpg" width="240px"> | <img src="https://bitcookies.nousbuild.com/pudding-vscoe-theme/2-Giftbox.jpg" width="240px"> |
+我们将在 `v2.0` 后推出新的插件图标，以及更多新的配色主题，敬请期待！
+
+下面是未来可能的主题配色插画：
+
+|                             插画                             |      作品名      |                      Pixiv                      |                           Behance                            |
+| :----------------------------------------------------------: | :--------------: | :---------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/6-pudding.jpg" width="240px"> |   《全身立绘》   | [查看](https://www.pixiv.net/artworks/99262676) | [查看](https://www.behance.net/gallery/146721913/Pudding-JK) |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/5-aquarium.jpg" width="240px"> |    《海洋馆》    | [查看](https://www.pixiv.net/artworks/99247123) |  [查看](https://www.behance.net/gallery/146662893/Aquarium)  |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/4-rabbit-cosplay.jpg" width="240px"> | 《那兔 Cosplay》 | [查看](https://www.pixiv.net/artworks/97722612) | [查看](https://www.behance.net/gallery/141910191/Rabbit-Cosplay) |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/3-drink.jpg" width="240px"> |    《喝饮料》    | [查看](https://www.pixiv.net/artworks/97722555) | [查看](https://www.behance.net/gallery/141909257/Drink-Pudding) |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/2-giftbox.jpg" width="240px"> |    《礼物盒》    | [查看](https://www.pixiv.net/artworks/95340507) |  [查看](https://www.behance.net/gallery/134497941/Gift-Box)  |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/1-classroom.jpg" width="240px"> |   《课后教室》   | [查看](https://www.pixiv.net/artworks/95340455) | [查看](https://www.behance.net/gallery/134497441/Classroom)  |
 
 ## 6. 许可
 

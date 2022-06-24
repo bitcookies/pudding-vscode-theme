@@ -157,10 +157,10 @@
     "diffEditor.insertedTextBackground": "#43426022",
     "diffEditor.removedTextBackground": "#D73A4922",
 
-    "scrollbar.shadow": "#74412833",
+    "scrollbar.shadow": "#74412830",
     "scrollbarSlider.background": "#74412840",
-    "scrollbarSlider.hoverBackground": "#74412844",
-    "scrollbarSlider.activeBackground": "#74412888",
+    "scrollbarSlider.hoverBackground": "#74412860",
+    "scrollbarSlider.activeBackground": "#74412890",
 
     "minimap.background": "#FDECE5E0",
     "minimapSlider.background": "#E5D4C590",

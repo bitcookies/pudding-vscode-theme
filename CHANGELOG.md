@@ -1,3 +1,10 @@
+## 1.1.4
+
++ Optimized colors for macOS
++ Adjust selection background
++ Adjust minimap background
++ Adjust highlight background
+
 ## 1.1.3
 
 + Update License

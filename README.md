@@ -72,7 +72,7 @@ We'll be releasing new plugin icons and more new color themes after `v2.0`, so s
 
 Here are possible future theme color scheme illustrations.
 
-|                             插画                             |     作品名     |                      Pixiv                      |                           Behance                            |
+|                        Illustrations                         |      Name      |                      Pixiv                      |                           Behance                            |
 | :----------------------------------------------------------: | :------------: | :---------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/6-pudding.jpg" width="240px"> |   Pudding JK   | [View](https://www.pixiv.net/artworks/99262676) | [View](https://www.behance.net/gallery/146721913/Pudding-JK) |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/5-aquarium.jpg" width="240px"> |    Aquarium    | [View](https://www.pixiv.net/artworks/99247123) |  [View](https://www.behance.net/gallery/146662893/Aquarium)  |

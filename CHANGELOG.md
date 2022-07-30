@@ -1,10 +1,3 @@
-## 1.1.4
-
-+ Optimized colors for macOS
-+ Adjust selection background
-+ Adjust minimap background
-+ Adjust highlight background
-
 ## 1.1.3
 
 + Update License
@@ -17,11 +10,9 @@
 + Update new illustrations
 
 ## 1.1.1
-
 + Adjust scrollbar slider background
 
 ## 1.1.0
-
 + Add banner color
 + Adjust editor group drop background
 + Adjust activity bar badge background and Inactive foreground

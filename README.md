@@ -63,7 +63,7 @@ Visit [Color Sublime](https://colorsublime.github.io) to pick your favorite tmTh
 
 Please delete the code at the beginning of the tmTheme file that looks like this.
 
-```tmTheme
+```
 <dict>
 	<key>settings</key>
 		<dict>

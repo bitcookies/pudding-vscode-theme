@@ -64,7 +64,7 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 
 请删掉 tmTheme 文件开头形如这样的代码：
 
-```tmTheme
+```
 <dict>
 	<key>settings</key>
 		<dict>

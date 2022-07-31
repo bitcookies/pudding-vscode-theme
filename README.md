@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding Color Theme for Visual Studio Code</p>
+ <p align="center">A Pudding illustrations Color Theme for Visual Studio Code</p>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
@@ -33,17 +33,16 @@ The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light
 
 The color scheme of this theme comes from the original cartoon character, **Pudding**. The colors in the painted image of Pudding were extracted and then used to develop this pudding theme.
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png)
-
 Since this color scheme was originally intended for painting, there may be some problems with inappropriate colors when applied to program themes such as Visual Studio Code, and subsequent updates will be made to optimize and adjust the best style of the theme.
 
-### 2.2 Suggestion
+### 2.2 Themes
 
-*Choosing a light theme during the day, and a dark theme at night* is not a good choice.
-
-The choice between light and dark themes does not depend on whether it is day or night, **but on the intensity of light in your current environment**. 
-
-Even at night, if you are in a bright environment, it is still recommended that you use a light color theme. Because in a bright environment, using a dark theme, your eyes will keep adjusting between the two brightnesses, which will easily cause eye fatigue.
+|                            Theme                             |         Name          |
+| :----------------------------------------------------------: | :-------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/6-pudding.jpg" width="240px"> |   Pudding Light JK    |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/5-aquarium.jpg" width="240px"> |    Pudding Dark JK    |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/4-rabbit-cosplay.jpg" width="240px"> | Pudding Light Jasmine |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/3-drink.jpg" width="240px"> | Pudding Dark Aquarium |
 
 ## 3. Install
 
@@ -51,9 +50,11 @@ Even at night, if you are in a bright environment, it is still recommended that 
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
 
-   + `Pudding Light`
+   - Pudding Light JK
 
-   - `Pudding Dark`
+   - Pudding Dark JK
+   - Pudding Light Jasmine
+   - Pudding Dark Aquarium
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 

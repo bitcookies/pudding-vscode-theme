@@ -1,8 +1,12 @@
+## 2.0.0
+
++ New themes
+
 ## 1.1.4
 
 + Optimized colors for macOS
 + Adjust selection background
-+ Adjust minimap background
++ Adjust mini map background
 + Adjust highlight background
 
 ## 1.1.3

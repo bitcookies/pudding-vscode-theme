@@ -37,11 +37,11 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 
 ### 2.2 主题列表
 
-|                            Theme                             |         Name          |
-| :----------------------------------------------------------: | :-------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |   Pudding Light JK    |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |    Pudding Dark JK    |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> | Pudding Light Jasmine |
+|                            Theme                             |          Name          |
+| :----------------------------------------------------------: | :--------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Dark      |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |     Pudding Light      |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> | Pudding Light Aquarium |
 
 ## 3. 安装
 

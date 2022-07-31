@@ -8,7 +8,7 @@
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#F7B6B7",
+        "color": "#1e1e1e",
         "theme": "dark"
     },
 	"repository": {
@@ -48,11 +48,6 @@
                 "label": "Pudding Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pudding-dark.json"
-            },
-            {
-                "label": "Pudding Dark JK",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pudding-dark-jkjson"
             }
         ]
     }

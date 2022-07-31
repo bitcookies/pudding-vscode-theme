@@ -1,6 +1,9 @@
 ## 2.0.0
 
-+ New themes
++ Release new theme of pudding light aquarium 🎉
++ Optimized all theme color schemes
++ Update icon
++ Customized tmTheme
 
 ## 1.1.4
 

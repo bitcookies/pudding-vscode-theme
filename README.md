@@ -68,11 +68,11 @@ Please delete the code at the beginning of the tmTheme file that looks like this
 	<key>settings</key>
 		<dict>
 			<key>background</key>
-                <string>#222222</string>
-                ......
-                ......
-                <key>invisibles</key>
-                <string>#3b3a32</string>
+			<string>#222222</string>
+			......
+			......
+			<key>invisibles</key>
+			<string>#3b3a32</string>
         </dict>
 </dict>
 ```

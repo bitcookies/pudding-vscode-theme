@@ -69,11 +69,11 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 	<key>settings</key>
 		<dict>
 			<key>background</key>
-                <string>#222222</string>
-                ......
-                ......
-                <key>invisibles</key>
-                <string>#3b3a32</string>
+			<string>#222222</string>
+			......
+			......
+			<key>invisibles</key>
+			<string>#3b3a32</string>
         </dict>
 </dict>
 ```

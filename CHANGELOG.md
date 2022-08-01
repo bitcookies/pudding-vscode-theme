@@ -1,8 +1,15 @@
+## 2.0.0
+
++ Release new theme of pudding light aquarium 🎉
++ Optimized all theme color schemes
++ Update icon
++ Customized tmTheme
+
 ## 1.1.4
 
 + Optimized colors for macOS
 + Adjust selection background
-+ Adjust minimap background
++ Adjust mini map background
 + Adjust highlight background
 
 ## 1.1.3

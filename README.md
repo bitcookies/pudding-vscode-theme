@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding Color Theme for Visual Studio Code</p>
+ <p align="center">A Pudding illustrations Color Theme for Visual Studio Code</p>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
@@ -18,12 +18,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="README.zh-CN.md">简体中文</a> | <a href="README.md">English</a>
+  <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.zh-CN.md">简体中文</a> | <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.md">English</a>
 </p>
 
 ## 1. Pudding Theme
 
-The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light Theme and a Dark Theme.
+Visual Studio Code Pudding theme is constantly updated with a variety of color themes.
 
 ![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.jpg)
 
@@ -33,31 +33,59 @@ The Visual Studio Code *Pudding Theme* currently comes in two colorways, a Light
 
 The color scheme of this theme comes from the original cartoon character, **Pudding**. The colors in the painted image of Pudding were extracted and then used to develop this pudding theme.
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png)
-
 Since this color scheme was originally intended for painting, there may be some problems with inappropriate colors when applied to program themes such as Visual Studio Code, and subsequent updates will be made to optimize and adjust the best style of the theme.
 
-### 2.2 Suggestion
+### 2.2 Themes
 
-*Choosing a light theme during the day, and a dark theme at night* is not a good choice.
-
-The choice between light and dark themes does not depend on whether it is day or night, **but on the intensity of light in your current environment**. 
-
-Even at night, if you are in a bright environment, it is still recommended that you use a light color theme. Because in a bright environment, using a dark theme, your eyes will keep adjusting between the two brightnesses, which will easily cause eye fatigue.
+|                            Theme                             |          Name          |
+| :----------------------------------------------------------: | :--------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Dark      |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |     Pudding Light      |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> | Pudding Light Aquarium |
 
 ## 3. Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme).
 2. Click on the "Install" button.
-3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available:
+3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available.
 
-   + `Pudding Light`
-
-   - `Pudding Dark`
+   - Pudding Light
+   - Pudding Light Aquarium
+   - Pudding Dark
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 4. Feedback
+## 4. Customized tmTheme
+
+### 4.1 Select Color Sublime
+
+Visit [Color Sublime](https://colorsublime.github.io) to pick your favorite tmTheme style and download it. After downloading, please delete the entire `<key>settings</key>` section at the beginning of the tmTheme file, as these settings will override the theme's color scheme.
+
+Please delete the code at the beginning of the tmTheme file that looks like this.
+
+```
+<dict>
+	<key>settings</key>
+		<dict>
+			<key>background</key>
+                <string>#222222</string>
+                ......
+                ......
+                <key>invisibles</key>
+                <string>#3b3a32</string>
+        </dict>
+</dict>
+```
+
+### 4.2 Replace Color Sublime
+
+After Clone this code repository, put the modified tmTheme file into `themes/tmTheme/` directory, then find the theme color scheme json file you want to modify under `themes/`, open it and modify the tokenColors link at the bottom to introduce your tmTheme file.
+
+```json
+"tokenColors": "./tmTheme/your.tmTheme"
+```
+
+## 5. Feedback
 
 The theme of the color scheme must still have a lot of shortcomings, if possible, you can give some feedback and comments here. Or, your favorite clothing apparel and colors, you can make suggestions for feedback:
 
@@ -66,9 +94,7 @@ The theme of the color scheme must still have a lot of shortcomings, if possible
 
 In the future I will also paint more characters clothing style, with the update of the pudding clothing stand, the future will launch more thematic color scheme.
 
-## 5. Future Theme
-
-We'll be releasing new plugin icons and more new color themes after `v2.0`, so stay tuned!
+## 6. Future Theme
 
 Here are possible future theme color scheme illustrations.
 
@@ -81,7 +107,7 @@ Here are possible future theme color scheme illustrations.
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/2-giftbox.jpg" width="240px"> |    Gift Box    | [View](https://www.pixiv.net/artworks/95340507) |  [View](https://www.behance.net/gallery/134497941/Gift-Box)  |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/1-classroom.jpg" width="240px"> |   Classroom    | [View](https://www.pixiv.net/artworks/95340455) | [View](https://www.behance.net/gallery/134497441/Classroom)  |
 
-## 6. License
+## 7. License
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 

@@ -105,7 +105,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#FFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -183,7 +183,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#a3c1e8</string>
 			</dict>
 		</dict>
 		<dict>

@@ -1,3 +1,8 @@
+## 2.0.1
+
++ Fixed the problem of inconsistent fontStyle color
++ Optimized tmTheme color
+
 ## 2.0.0
 
 + Release new theme of pudding light aquarium 🎉

@@ -81,7 +81,7 @@
     "notificationCenterHeader.foreground": "#6A737D",
     "notificationCenterHeader.background": "#E59B60",
     "notifications.foreground": "#2F363D",
-    "notifications.background": "#FAFBFC",
+    "notifications.background": "#F1CBA2",
     "notifications.border": "#E59B60",
     "notificationsErrorIcon.foreground": "#D73A49",
     "notificationsWarningIcon.foreground": "#E36209",
@@ -95,9 +95,11 @@
     "statusBar.foreground": "#FFF",
     "statusBar.background": "#DB8846",
     "statusBar.border": "#E59B60",
+
     "statusBar.noFolderBackground": "#434260",
     "statusBar.debuggingBackground": "#F9826C",
     "statusBar.debuggingForeground": "#FFF",
+    
     "statusBarItem.prominentBackground": "#313549",
 
     "editorGroupHeader.tabsBackground": "#EDC89F",
@@ -115,7 +117,7 @@
     "tab.unfocusedActiveBorderTop": "#EDC89F",
     "tab.activeBorder": "#F9ECDD",
     "tab.unfocusedActiveBorder": "#FFF",
-    "tab.activeBorderTop": "#F9826C",
+    "tab.activeBorderTop": "#FCEF94",
 
     "breadcrumb.foreground": "#6A737D",
     "breadcrumb.focusForeground": "#2F363D",
@@ -125,7 +127,7 @@
     "editor.background": "#F9ECDD",
     "editor.foreground": "#A88809",
 
-    "editorWidget.background": "#F9CB7E90",
+    "editorWidget.background": "#F9CB7E",
 
     "editor.foldBackground": "#1B1F2311",
 
@@ -165,10 +167,10 @@
     "scrollbarSlider.background": "#74412840",
     "scrollbarSlider.hoverBackground": "#74412860",
 
-    "minimap.background": "#E5D4C550",
-    "minimapSlider.background": "#E5D4C590",
-    "minimapSlider.hoverBackground": "#E5D4C598",
-    "minimapSlider.activeBackground": "#E5D4C5B0",
+    "minimap.background": "#E5D4C580",
+    "minimapSlider.background": "#E5D4C599",
+    "minimapSlider.hoverBackground": "#E5D4C5A8",
+    "minimapSlider.activeBackground": "#E5D4C5C0",
 
     "editorOverviewRuler.border": "#F6F8FA",
 

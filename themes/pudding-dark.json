@@ -95,9 +95,11 @@
     "statusBar.foreground": "#D0D2DA",
     "statusBar.background": "#434260",
     "statusBar.border": "#313549",
+
     "statusBar.noFolderBackground": "#434260",
     "statusBar.debuggingBackground": "#931C06",
     "statusBar.debuggingForeground": "#FFF",
+    
     "statusBarItem.prominentBackground": "#313549",
 
     "editorGroupHeader.tabsBackground": "#434260",

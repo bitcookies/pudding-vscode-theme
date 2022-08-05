@@ -1,14 +1,22 @@
+## 2.0.2
+
++ Fixed the problem of notifications background color
++ Fixed list hover background color
++ Adjust status bar debugging foreground color
++ Adjust mini map background color
++ Adjust tab active border top color
+
 ## 2.0.1
 
-+ Fixed the problem of inconsistent fontStyle color
-+ Optimized tmTheme color
++ Fixed the problem of inconsistent font style color
++ Optimized `tmTheme` color
 
 ## 2.0.0
 
 + Release new theme of pudding light aquarium 🎉
 + Optimized all theme color schemes
-+ Update icon
-+ Customized tmTheme
++ Use new icon
++ Customized `tmTheme`
 
 ## 1.1.4
 

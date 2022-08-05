@@ -66,7 +66,7 @@
     "list.hoverForeground": "#303B73",
     "list.inactiveSelectionForeground": "#303B73",
     "list.activeSelectionForeground": "#303B73",
-    "list.hoverBackground": "#81E5F4",
+    "list.hoverBackground": "#81E5F450",
     "list.inactiveSelectionBackground": "#81E5F490",
     "list.activeSelectionBackground": "#78DCEB",
     "list.inactiveFocusBackground": "#DBEDFF",
@@ -79,7 +79,7 @@
     "banner.iconForeground": "#DBEDFF",
     
     "notificationCenterHeader.foreground": "#6A737D",
-    "notificationCenterHeader.background": "#78DCEB",
+    "notificationCenterHeader.background": "#E2F8FF",
     "notifications.foreground": "#303B73",
     "notifications.background": "#FAFBFC",
     "notifications.border": "#78DCEB",
@@ -95,9 +95,11 @@
     "statusBar.foreground": "#FFF",
     "statusBar.background": "#0098D1",
     "statusBar.border": "#0098D1",
+
     "statusBar.noFolderBackground": "#78DCEB",
     "statusBar.debuggingBackground": "#F9826C",
-    "statusBar.debuggingForeground": "#0098D1",
+    "statusBar.debuggingForeground": "#FFF",
+    
     "statusBarItem.prominentBackground": "#313549",
 
     "editorGroupHeader.tabsBackground": "#E2F8FF",
@@ -165,10 +167,10 @@
     "scrollbarSlider.hoverBackground": "#78DCEBB0",
     "scrollbarSlider.activeBackground": "#78DCEBD0",
 
-    "minimap.background": "#78DCEB60",
-    "minimapSlider.background": "#78DCEB90",
-    "minimapSlider.hoverBackground": "#78DCEB98",
-    "minimapSlider.activeBackground": "#78DCEBB0",
+    "minimap.background": "#78DCEB80",
+    "minimapSlider.background": "#78DCEB99",
+    "minimapSlider.hoverBackground": "#78DCEBA0",
+    "minimapSlider.activeBackground": "#78DCEBC0",
     
     "editorOverviewRuler.border": "#78DCEB",
 

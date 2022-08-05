@@ -96,8 +96,8 @@
     "statusBar.background": "#DB8846",
     "statusBar.border": "#E59B60",
 
-    "statusBar.noFolderBackground": "#434260",
-    "statusBar.debuggingBackground": "#F9826C",
+    "statusBar.noFolderBackground": "#DB8846",
+    "statusBar.debuggingBackground": "#E34850",
     "statusBar.debuggingForeground": "#FFF",
     
     "statusBarItem.prominentBackground": "#313549",

@@ -71,6 +71,8 @@
     "list.activeSelectionBackground": "#78DCEB",
     "list.inactiveFocusBackground": "#DBEDFF",
     "list.focusBackground": "#81E5F4",
+    "list.focusOutline": "#686D97",
+    "list.focusAndSelectionOutline": "#686D97",
 
     "tree.indentGuidesStroke": "#303B73",
 

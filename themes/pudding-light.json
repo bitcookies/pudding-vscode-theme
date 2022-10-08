@@ -66,11 +66,13 @@
     "list.hoverForeground": "#2F363D",
     "list.inactiveSelectionForeground": "#2F363D",
     "list.activeSelectionBackground": "#E5D4C5",
-    "list.hoverBackground": "#E59B6060",
-    "list.inactiveSelectionBackground": "#E59B6098",
+    "list.hoverBackground": "#E59B6070",
+    "list.inactiveSelectionBackground": "#E59B60B0",
     "list.activeSelectionForeground": "#2F363D",
     "list.inactiveFocusBackground": "#DBEDFF",
     "list.focusBackground": "#CCE5FF",
+    "list.focusOutline": "#5F6F65",
+    "list.focusAndSelectionOutline": "#5F6F65",
 
     "tree.indentGuidesStroke": "#E59B60",
 

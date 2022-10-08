@@ -71,6 +71,8 @@
     "list.activeSelectionForeground": "#E1E4E8",
     "list.inactiveFocusBackground": "#1d2d3e",
     "list.focusBackground": "#044289",
+    "list.focusOutline": "#4E3E65",
+    "list.focusAndSelectionOutline": "#4E3E65",
 
     "tree.indentGuidesStroke": "#2F363D",
 
@@ -122,16 +124,16 @@
     "breadcrumb.foreground": "#959DA5",
     "breadcrumb.focusForeground": "#E1E4E8",
     "breadcrumb.activeSelectionForeground": "#D0D2DA",
-    "breadcrumbPicker.background": "#2B3036",
+    "breadcrumbPicker.background": "#313549",
 
     "editor.background": "#1B1C2B",
     "editor.foreground": "#a3c1e8",
 
-    "editorWidget.background": "#2B3036",
+    "editorWidget.background": "#313549",
 
     "editor.foldBackground": "#58606915",
 
-    "editor.lineHighlightBackground": "#2B3036",
+    "editor.lineHighlightBackground": "#313549",
     "editorLineNumber.foreground": "#444D56",
     "editorLineNumber.activeForeground": "#E1E4E8",
     "editorIndentGuide.background": "#2F363D",
@@ -215,7 +217,7 @@
     "gitDecoration.ignoredResourceForeground": "#6A737D",
     "gitDecoration.conflictingResourceForeground": "#FFAB70",
     "gitDecoration.submoduleResourceForeground": "#6A737D",
-    "debugToolBar.background": "#2B3036",
+    "debugToolBar.background": "#313549",
     "editor.stackFrameHighlightBackground": "#C6902625",
     "editor.focusedStackFrameHighlightBackground": "#2b6a3033",
     "settings.headerForeground": "#E1E4E8",

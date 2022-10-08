@@ -1,3 +1,9 @@
+## 2.0.3
+
++ Adjust list focus outline color
++ Adjust editor widget and line highlight background of pudding dark theme
++ Adjust breadcrumb picker background of pudding dark theme
+
 ## 2.0.2
 
 + Fixed the problem of notifications background color

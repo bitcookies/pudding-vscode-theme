@@ -8,7 +8,7 @@
   	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
-  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg?" />
+  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg" />
   </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
   	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />

@@ -5,6 +5,9 @@
     "foreground": "#303B73",
     "descriptionForeground": "#21B2D5",
     "errorForeground": "#CB2431",
+
+    "window.activeBorder": "#21B2D5",
+    "window.inactiveBorder": "#21B2D5",
     
     "textLink.foreground": "#686D97",
     "textLink.activeForeground": "#4E3E65",
@@ -26,7 +29,7 @@
 
     "dropdown.background": "#CFFDF9",
     "dropdown.border": "#0098D1",
-    "dropdown.foreground": "#FFFFFC",
+    "dropdown.foreground": "#313549",
     "dropdown.listBackground": "#21B2D5",
 
     "input.background": "#FFFFFC",

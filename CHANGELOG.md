@@ -1,3 +1,9 @@
+## 2.1.0
+
++ Replace the new icon
++ Fix dropdown foreground color of pudding aquarium theme is not obvious
++ Adjust activity bar badge color of pudding theme and dark theme
+
 ## 2.0.3
 
 + Adjust list focus outline color

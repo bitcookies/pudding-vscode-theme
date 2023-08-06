@@ -8,7 +8,7 @@
   	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
-  	<img alt="Market" src="https://vsmarketplacebadge.apphb.com/version-short/Bitcookies.pudding-vscode-theme.svg" />
+  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg?" />
   </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
   	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
@@ -20,6 +20,7 @@
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.zh-CN.md">简体中文</a> | <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.md">English</a>
 </p>
+
 
 ## 1. Pudding Theme
 
@@ -96,16 +97,11 @@ In the future I will also paint more characters clothing style, with the update 
 
 ## 6. Future Theme
 
-Here are possible future theme color scheme illustrations.
+See more of my illustrations.
 
-|                        Illustrations                         |      Name      |                      Pixiv                      |                           Behance                            |
-| :----------------------------------------------------------: | :------------: | :---------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/6-pudding.jpg" width="240px"> |   Pudding JK   | [View](https://www.pixiv.net/artworks/99262676) | [View](https://www.behance.net/gallery/146721913/Pudding-JK) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/5-aquarium.jpg" width="240px"> |    Aquarium    | [View](https://www.pixiv.net/artworks/99247123) |  [View](https://www.behance.net/gallery/146662893/Aquarium)  |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/4-rabbit-cosplay.jpg" width="240px"> | Rabbit Cosplay | [View](https://www.pixiv.net/artworks/97722612) | [View](https://www.behance.net/gallery/141910191/Rabbit-Cosplay) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/3-drink.jpg" width="240px"> | Drink Pudding  | [View](https://www.pixiv.net/artworks/97722555) | [View](https://www.behance.net/gallery/141909257/Drink-Pudding) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/2-giftbox.jpg" width="240px"> |    Gift Box    | [View](https://www.pixiv.net/artworks/95340507) |  [View](https://www.behance.net/gallery/134497941/Gift-Box)  |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/1-classroom.jpg" width="240px"> |   Classroom    | [View](https://www.pixiv.net/artworks/95340455) | [View](https://www.behance.net/gallery/134497441/Classroom)  |
+<a href="https://github.com/pudding0503/pudding-illustration">
+	<img width="300px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/link.png" alt="link" />
+</a>
 
 ## 7. License
 

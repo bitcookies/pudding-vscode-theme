@@ -49,8 +49,8 @@
     "activityBar.inactiveForeground": "#F9CB7E",
     "activityBar.background": "#434260",
 
-    "activityBarBadge.background": "#F7B6B7",
-    "activityBarBadge.foreground": "#434260",
+    "activityBarBadge.background": "#313549",
+    "activityBarBadge.foreground": "#FDF0E9",
 
     "activityBar.activeBorder": "#F9826C",
     "activityBar.border": "#313549",

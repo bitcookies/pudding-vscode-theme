@@ -8,7 +8,7 @@
   	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
-  	<img alt="Market" src="https://vsmarketplacebadge.apphb.com/version-short/Bitcookies.pudding-vscode-theme.svg" />
+  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg" />
   </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
   	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
@@ -97,16 +97,11 @@ Clone 此代码仓库后，将修改后的 tmTheme 文件放到 `themes/tmTheme/
 
 ## 6. 未来的主题配色
 
-下面是未来可能的主题配色插画：
+查看更多我的插画：
 
-|                             插画                             |      作品名      |                      Pixiv                      |                           Behance                            |
-| :----------------------------------------------------------: | :--------------: | :---------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/6-pudding.jpg" width="240px"> |   《全身立绘》   | [查看](https://www.pixiv.net/artworks/99262676) | [查看](https://www.behance.net/gallery/146721913/Pudding-JK) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/5-aquarium.jpg" width="240px"> |    《海洋馆》    | [查看](https://www.pixiv.net/artworks/99247123) |  [查看](https://www.behance.net/gallery/146662893/Aquarium)  |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/4-rabbit-cosplay.jpg" width="240px"> | 《那兔 Cosplay》 | [查看](https://www.pixiv.net/artworks/97722612) | [查看](https://www.behance.net/gallery/141910191/Rabbit-Cosplay) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/3-drink.jpg" width="240px"> |    《喝饮料》    | [查看](https://www.pixiv.net/artworks/97722555) | [查看](https://www.behance.net/gallery/141909257/Drink-Pudding) |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/2-giftbox.jpg" width="240px"> |    《礼物盒》    | [查看](https://www.pixiv.net/artworks/95340507) |  [查看](https://www.behance.net/gallery/134497941/Gift-Box)  |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/1-classroom.jpg" width="240px"> |   《课后教室》   | [查看](https://www.pixiv.net/artworks/95340455) | [查看](https://www.behance.net/gallery/134497441/Classroom)  |
+<a href="https://github.com/pudding0503/pudding-illustration">
+	<img width="300px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/link.png" alt="link" />
+</a>
 
 ## 7. 许可
 

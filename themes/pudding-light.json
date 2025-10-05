@@ -14,7 +14,7 @@
     "textPreformat.foreground": "#586069",
     "textSeparator.foreground": "#D1D5DA",
 
-    "button.background": "#434260",
+    "button.background": "#744128",
     "button.foreground": "#FAFBFC",
     "button.hoverBackground": "#313549",
     "button.secondaryForeground": "#1B1F23",
@@ -151,17 +151,17 @@
     "editor.selectionHighlightBackground": "#DB8E5140",
     "editor.selectionHighlightBorder": "#DB8E5100",
 
-    "editor.wordHighlightBackground": "#43426000",
-    "editor.wordHighlightStrongBackground": "#43426000",
+    "editor.wordHighlightBackground": "#74412800",
+    "editor.wordHighlightStrongBackground": "#74412800",
     "editor.wordHighlightBorder": "#24943e99",
     "editor.wordHighlightStrongBorder": "#24943e50",
-    "editorBracketMatch.background": "#43426040",
-    "editorBracketMatch.border": "#43426000",
+    "editorBracketMatch.background": "#74412840",
+    "editorBracketMatch.border": "#74412800",
     "editorGutter.modifiedBackground": "#2188FF",
     "editorGutter.addedBackground": "#28A745",
     "editorGutter.deletedBackground": "#D73A49",
 
-    "diffEditor.insertedTextBackground": "#43426022",
+    "diffEditor.insertedTextBackground": "#74412822",
     "diffEditor.removedTextBackground": "#D73A4922",
 
     "scrollbar.shadow": "#74412830",

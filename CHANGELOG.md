@@ -1,3 +1,7 @@
+## 2.1.1
+
++ Adjust button color of pudding light theme
+
 ## 2.1.0
 
 + Replace the new icon

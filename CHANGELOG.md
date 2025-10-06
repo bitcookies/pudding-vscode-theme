@@ -1,3 +1,12 @@
+## 2.1.3
+
++ The theme icon has been adjusted to use a transparent background
++ `ver3` is under development and will optimize existing themes and bring new themes
+
+## 2.1.2
+
++ Resolve application publishing issues in the Visual Studio Marketplace
+
 ## 2.1.1
 
 + Adjust button color of pudding light theme

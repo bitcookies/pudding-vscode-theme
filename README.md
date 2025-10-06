@@ -1,14 +1,11 @@
 <p align="center">
  <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding illustrations Color Theme for Visual Studio Code</p>
+ <p align="center">A Pudding illustrations color theme for Visual Studio Code</p>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
   	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
-  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg" />
   </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
   	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
@@ -97,6 +94,8 @@ In the future I will also paint more characters clothing style, with the update 
 
 ## 6. Future Theme
 
+`ver3` theme plugin is under development.
+
 See more of my illustrations.
 
 <a href="https://github.com/pudding0503/pudding-illustration">
@@ -107,4 +106,4 @@ See more of my illustrations.
 
 The code is available under the [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE), but not including characters.
 
-Pudding character are copyrighted to the author: [Haoning Wu](https://github.com/pudding0503).
+Pudding character are copyrighted to the author: [ONing](https://github.com/pudding0503).

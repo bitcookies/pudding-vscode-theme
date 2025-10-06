@@ -7,9 +7,6 @@
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
   	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Bitcookies.pudding-vscode-theme">
-  	<img alt="Market" src="https://vsmarketplacebadges.dev/version-short/Bitcookies.pudding-vscode-theme.svg" />
-  </a>
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
   	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
   </a>
@@ -97,6 +94,8 @@ Clone 此代码仓库后，将修改后的 tmTheme 文件放到 `themes/tmTheme/
 
 ## 6. 未来的主题配色
 
+`ver3` 版本主题正在完成中。
+
 查看更多我的插画：
 
 <a href="https://github.com/pudding0503/pudding-illustration">
@@ -107,4 +106,4 @@ Clone 此代码仓库后，将修改后的 tmTheme 文件放到 `themes/tmTheme/
 
 主题代码使用 [MIT license](https://github.com/bitcookies/winrar-keygen/blob/master/LICENSE)，但不包含立绘。
 
-布丁人物立绘版权归作者所有：[Haoning Wu](https://github.com/pudding0503)
+布丁人物立绘版权归作者所有：[ONing](https://github.com/pudding0503)

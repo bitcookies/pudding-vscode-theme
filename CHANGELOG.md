@@ -1,3 +1,11 @@
+## 3.0.1
+
++ Adjust editor group drop background color
+
++ Update README and keywords
+
++ Happy Lunar New Year 2026 🏮
+
 ## 3.0.0
 
 + Two new themes have been added: Pudding Light · JK and Pudding Dark · Christmas

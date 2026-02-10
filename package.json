@@ -2,13 +2,13 @@
     "name": "pudding-vscode-theme",
     "displayName": "Pudding Theme",
     "description": "A Pudding illustrations color theme for Visual Studio Code.",
-    "version": "2.1.3",
+    "version": "3.0.0",
     "preview": false,
 	"publisher": "Bitcookies",
     "license": "MIT",
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#1e1e1e",
+        "color": "#1E1E1E",
         "theme": "dark"
     },
 	"repository": {
@@ -25,12 +25,13 @@
         "Themes"
     ],
     "keywords": [
-		"theme",
-        "color-theme",
-		"light-theme",
-		"dark-theme",
-        "pudding",
-        "illustration"
+		"Themes",
+		"Light-Theme",
+		"Dark-Theme",
+        "Pudding",
+        "illustration",
+        "JK",
+        "Christmas"
 	],
     "contributes": {
         "themes": [
@@ -40,14 +41,19 @@
                 "path": "./themes/pudding-light.json"
             },
             {
-                "label": "Pudding Light Aquarium",
+                "label": "Pudding Light · JK",
                 "uiTheme": "vs",
-                "path": "./themes/pudding-light-aquarium.json"
+                "path": "./themes/pudding-light-jk.json"
             },
             {
                 "label": "Pudding Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pudding-dark.json"
+            },
+            {
+                "label": "Pudding Dark · Christmas",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pudding-dark-christmas.json"
             }
         ]
     }

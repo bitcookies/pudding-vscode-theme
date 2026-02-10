@@ -1,3 +1,11 @@
+## 3.0.0
+
++ Two new themes have been added: Pudding Light · JK and Pudding Dark · Christmas
++ Optimized the default Pudding Light and Pudding Dark themes
++ The naming convention for themes has been adjusted
++ The Aquarium theme has been removed in the `v3.x` version. If needed, please obtain it from the `v2.x` version
++ Happy New Year 2026 🏮
+
 ## 2.1.3
 
 + The theme icon has been adjusted to use a transparent background

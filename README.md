@@ -4,26 +4,19 @@
  <p align="center">A Pudding illustrations color theme for Visual Studio Code</p>
 </p>
 <p align="center">
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
-  	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
-  </a>
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
-  	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
-  </a>
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/issues">
-  	<img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" />
-  </a>
+  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases"><img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" /></a><a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" /></a><a href="https://github.com/bitcookies/pudding-vscode-theme/issues"><img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.zh-CN.md">简体中文</a> | <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.md">English</a>
 </p>
 
 
+
 ## 1. Pudding Theme
 
 Visual Studio Code Pudding theme is constantly updated with a variety of color themes.
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.jpg)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.png)
 
 ## 2. Color Scheme
 
@@ -35,11 +28,12 @@ Since this color scheme was originally intended for painting, there may be some 
 
 ### 2.2 Themes
 
-|                            Theme                             |          Name          |
-| :----------------------------------------------------------: | :--------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Dark      |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |     Pudding Light      |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> | Pudding Light Aquarium |
+|                            Theme                             |           Name           |
+| :----------------------------------------------------------: | :----------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Light       |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |    Pudding Light · JK    |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> |       Pudding Dark       |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> | Pudding Dark · Christmas |
 
 ## 3. Install
 
@@ -94,7 +88,7 @@ In the future I will also paint more characters clothing style, with the update 
 
 ## 6. Future Theme
 
-`ver3` theme plugin is under development.
+The Aquarium theme has been removed in the `v3.x` version. If needed, please obtain it from the `v2.x` version.
 
 See more of my illustrations.
 

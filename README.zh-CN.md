@@ -4,25 +4,17 @@
  <p align="center">布丁插画风格的 Visual Studio Code 主题</p>
 </p>
 <p align="center">
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases">
-  	<img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" />
-  </a>
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE">
-  	<img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" />
-  </a>
-  <a href="https://github.com/bitcookies/pudding-vscode-theme/issues">
-  	<img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" />
-  </a>
-</p>
+  <a href="https://github.com/bitcookies/pudding-vscode-theme/releases"><img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" /></a><a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" /></a><a href="https://github.com/bitcookies/pudding-vscode-theme/issues"><img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" /></a></p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.zh-CN.md">简体中文</a> | <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.md">English</a>
 </p>
+
 
 ## 1. VSCode 布丁主题
 
 Visual Studio Code 布丁主题正在不断更新多款配色主题：
 
-![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.jpg)
+![screenshot](https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-1.png)
 
 ## 2. 配色方案
 
@@ -34,11 +26,12 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 
 ### 2.2 主题列表
 
-|                            Theme                             |          Name          |
-| :----------------------------------------------------------: | :--------------------: |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Dark      |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |     Pudding Light      |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> | Pudding Light Aquarium |
+|                            Theme                             |           Name           |
+| :----------------------------------------------------------: | :----------------------: |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Light       |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |    Pudding Light · JK    |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> |       Pudding Dark       |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> | Pudding Dark · Christmas |
 
 ## 3. 安装
 
@@ -94,7 +87,7 @@ Clone 此代码仓库后，将修改后的 tmTheme 文件放到 `themes/tmTheme/
 
 ## 6. 未来的主题配色
 
-`ver3` 版本主题正在完成中。
+Aquarium 主题在 `v3.x` 版本中已被移除，如果需要请在 `v2.x` 版本获取。
 
 查看更多我的插画：
 

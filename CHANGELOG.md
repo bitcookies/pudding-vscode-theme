@@ -1,3 +1,29 @@
+## 3.1.0
+
++ Optimized Pudding Light theme color system (buttons, badges, hover states, selection, minimap, scrollbar, terminal cursor, etc.)
+
++ Optimized Pudding Dark theme contrast and selection visibility
+
++ Improved editor selection / inactive selection transparency consistency across themes
+
++ Refined hover widgets
+
++ Unified scrollbar and minimap transparency logic for better visual layering
+
++ Improved find-match highlight visibility in Light / Dark / JK themes
+
++ Adjusted tab, breadcrumb, dropdown, and input background hierarchy
+
++ Standardized border colors to improve overall UI coherence
+
++ Enhanced list focus and selection feedback behavior
+
++ Improved terminal cursor and ANSI color contrast in Light theme
+
++ Minor visual refinements and polish across all themes ✨
+
++ Happy Lunar New Year 2026 🏮
+
 ## 3.0.1
 
 + Adjust editor group drop background color

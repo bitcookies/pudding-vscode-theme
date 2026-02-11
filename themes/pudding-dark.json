@@ -68,13 +68,13 @@
     "sideBarSectionHeader.border": "#313549",
 
     "list.hoverForeground": "#E1E4E8",
-    "list.hoverBackground": "#434260",
+    "list.hoverBackground": "#1F2235",
     "list.inactiveSelectionForeground": "#E1E4E8",
-    "list.activeSelectionBackground": "#1B1C2B",
-    "list.inactiveSelectionBackground": "#1B1C2B",
+    "list.activeSelectionBackground": "#181B2C",
+    "list.inactiveSelectionBackground": "#181B2C",
     "list.activeSelectionForeground": "#E1E4E8",
     "list.inactiveFocusBackground": "#1D2D3E",
-    "list.focusBackground": "#1B1C2B",
+    "list.focusBackground": "#181B2C",
     "list.focusOutline": "#4E3E65",
     "list.focusAndSelectionOutline": "#4E3E65",
 
@@ -133,9 +133,9 @@
     "editor.background": "#1B1C2B",
     "editor.foreground": "#A3C1E8",
 
-    "editorWidget.background": "#313549",
+    "editorWidget.background": "#1F2235",
     "editorHoverWidget.foreground": "#E1E4E8",
-    "editorHoverWidget.background": "#313549",
+    "editorHoverWidget.background": "#1F2235",
     "editorHoverWidget.border": "#434260",
 
     "editor.foldBackground": "#58606915",
@@ -150,7 +150,7 @@
     "editorError.foreground": "#F97583",
     "editorWarning.foreground": "#F9C513",
     "editor.findMatchBackground": "#FFDF5D",
-    "editor.findMatchHighlightBackground": "#FFDF5D70",    "editor.linkedEditingBackground": "#3392FF22",
+    "editor.findMatchHighlightBackground": "#FFDF5D70",
     "editor.linkedEditingBackground": "#3392FF22",
 
     "editor.inactiveSelectionBackground": "#F9CB7E20",

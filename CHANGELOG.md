@@ -1,163 +1,174 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+---
+
+## 3.1.1
+
++ Refined semantic color tokens for improved cross-theme consistency  
++ Optimized contrast for editor hover, selection, and find-match highlights  
++ Improved tab and panel background layering hierarchy  
++ Fine-tuned scrollbar, minimap, and overview ruler transparency  
++ Minor UI polish and visual consistency improvements across all themes ✨  
+
+---
+
 ## 3.1.0
 
-+ Optimized Pudding Light theme color system (buttons, badges, hover states, selection, minimap, scrollbar, terminal cursor, etc.)
++ Refined Pudding Light theme color system (buttons, badges, hover states, selection, minimap, scrollbar, terminal cursor, etc.)  
++ Optimized Pudding Dark contrast and selection visibility  
++ Improved editor selection and inactive selection transparency consistency across themes  
++ Refined hover widgets (foreground, background, and border styles)  
++ Unified scrollbar and minimap transparency logic for better visual layering  
++ Improved find-match highlight visibility in Light / Dark / JK themes  
++ Adjusted tab, breadcrumb, dropdown, and input background hierarchy  
++ Standardized border colors to improve overall UI coherence  
++ Enhanced list focus and selection feedback behavior  
++ Improved terminal cursor and ANSI color contrast in Light theme  
++ Minor visual refinements and polish across all themes ✨  
++ Happy Lunar New Year 2026 🏮  
 
-+ Optimized Pudding Dark theme contrast and selection visibility
-
-+ Improved editor selection / inactive selection transparency consistency across themes
-
-+ Refined hover widgets
-
-+ Unified scrollbar and minimap transparency logic for better visual layering
-
-+ Improved find-match highlight visibility in Light / Dark / JK themes
-
-+ Adjusted tab, breadcrumb, dropdown, and input background hierarchy
-
-+ Standardized border colors to improve overall UI coherence
-
-+ Enhanced list focus and selection feedback behavior
-
-+ Improved terminal cursor and ANSI color contrast in Light theme
-
-+ Minor visual refinements and polish across all themes ✨
-
-+ Happy Lunar New Year 2026 🏮
+---
 
 ## 3.0.1
 
-+ Adjust editor group drop background color
++ Adjusted editor group drop background color  
++ Updated README and keywords  
++ Happy Lunar New Year 2026 🏮  
 
-+ Update README and keywords
-
-+ Happy Lunar New Year 2026 🏮
+---
 
 ## 3.0.0
 
-+ Two new themes have been added: Pudding Light · JK and Pudding Dark · Christmas
-+ Optimized the default Pudding Light and Pudding Dark themes
-+ The naming convention for themes has been adjusted
-+ The Aquarium theme has been removed in the `v3.x` version. If needed, please obtain it from the `v2.x` version
-+ Happy New Year 2026 🏮
++ Added two new themes: **Pudding Light · JK** and **Pudding Dark · Christmas**  
++ Optimized default **Pudding Light** and **Pudding Dark** themes  
++ Updated theme naming conventions  
++ Removed the **Aquarium** theme in `v3.x` (available in `v2.x` if needed)  
++ Happy New Year 2026 🏮  
+
+---
 
 ## 2.1.3
 
-+ The theme icon has been adjusted to use a transparent background
-+ `ver3` is under development and will optimize existing themes and bring new themes
++ Updated theme icon to use a transparent background  
++ Announced upcoming `v3` major update (theme optimization and new themes)  
 
 ## 2.1.2
 
-+ Resolve application publishing issues in the Visual Studio Marketplace
++ Resolved publishing issues in the Visual Studio Marketplace  
 
 ## 2.1.1
 
-+ Adjust button color of pudding light theme
++ Adjusted button color in Pudding Light theme  
 
 ## 2.1.0
 
-+ Replace the new icon
-+ Fix dropdown foreground color of pudding aquarium theme is not obvious
-+ Adjust activity bar badge color of pudding theme and dark theme
++ Replaced theme icon  
++ Fixed dropdown foreground visibility issue in Pudding Aquarium theme  
++ Adjusted activity bar badge colors in Light and Dark themes  
 
 ## 2.0.3
 
-+ Adjust list focus outline color
-+ Adjust editor widget and line highlight background of pudding dark theme
-+ Adjust breadcrumb picker background of pudding dark theme
++ Adjusted list focus outline color  
++ Refined editor widget and line highlight background in Pudding Dark
++ Adjusted breadcrumb picker background in Pudding Dark
 
 ## 2.0.2
 
-+ Fixed the problem of notifications background color
-+ Fixed list hover background color
-+ Adjust status bar debugging foreground color
-+ Adjust mini map background color
-+ Adjust tab active border top color
++ Fixed notification background color  
++ Fixed list hover background color  
++ Adjusted status bar debugging foreground color  
++ Adjusted minimap background color  
++ Adjusted active tab top border color  
 
 ## 2.0.1
 
-+ Fixed the problem of inconsistent font style color
-+ Optimized `tmTheme` color
++ Fixed inconsistent font style colors  
++ Optimized `tmTheme` color definitions  
 
 ## 2.0.0
 
-+ Release new theme of pudding light aquarium 🎉
-+ Optimized all theme color schemes
-+ Use new icon
-+ Customized `tmTheme`
++ Added new theme: Pudding Light · Aquarium 🎉  
++ Optimized all theme color schemes  
++ Introduced new theme icon  
++ Customized `tmTheme`  
 
 ## 1.1.4
 
-+ Optimized colors for macOS
-+ Adjust selection background
-+ Adjust mini map background
-+ Adjust highlight background
++ Optimized colors for macOS  
++ Adjusted selection background  
++ Adjusted minimap background  
++ Adjusted highlight background  
 
 ## 1.1.3
 
-+ Update License
-+ Update README and illustrations
-+ Adjust scrollbar slider background
++ Updated License  
++ Updated README and illustrations  
++ Adjusted scrollbar slider background  
 
 ## 1.1.2
 
-+ Adjust selection background
-+ Update new illustrations
++ Adjusted selection background  
++ Updated illustrations  
 
 ## 1.1.1
-+ Adjust scrollbar slider background
+
++ Adjusted scrollbar slider background  
 
 ## 1.1.0
-+ Add banner color
-+ Adjust editor group drop background
-+ Adjust activity bar badge background and Inactive foreground
-+ Update README
+
++ Added banner color  
++ Adjusted editor group drop background  
++ Adjusted activity bar badge background and inactive foreground  
++ Updated README  
 
 ## 1.0.9
 
-+ Fix status bar color
-+ Fix editor widget color
++ Fixed status bar color  
++ Fixed editor widget color  
 
 ## 1.0.8
 
-+ Adjust scroll bar slider color
++ Adjusted scrollbar slider color  
 
 ## 1.0.7
 
-+ Adjust button color
-+ Adjust mini map background
-+ Adjust editor selection color
-+ Adjust panel background
-+ Adjust text link color
++ Adjusted button color  
++ Adjusted minimap background  
++ Adjusted editor selection color  
++ Adjusted panel background  
++ Adjusted text link color  
 
 ## 1.0.6
 
-+ Adjust the title bar color
-+ Adjust mini map background
-+ Add editor group background
++ Adjusted title bar color  
++ Adjusted minimap background  
++ Added editor group background  
 
 ## 1.0.5
 
-+ Adjust the light and dark theme
-+ Update README Feedback
++ Adjusted Light and Dark themes  
++ Updated README (Feedback section)  
 
 ## 1.0.4
 
-+ Fix status bar color
-+ Update README
++ Fixed status bar color  
++ Updated README  
 
 ## 1.0.3
 
-+ Add CHANGELOG
-+ Update README
++ Added CHANGELOG  
++ Updated README  
 
 ## 1.0.2
 
-+ Update README
++ Updated README  
 
 ## 1.0.1
 
-- Fix missing color error
+- Fixed missing color error  
 
 ## 1.0.0
 
-- Initial release
+- Initial release  

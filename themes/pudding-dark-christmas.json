@@ -68,15 +68,15 @@
     "sideBarSectionHeader.border": "#6B0C10",
 
     "list.hoverForeground": "#E1E4E8",
-    "list.hoverBackground": "#7D191D",
+    "list.hoverBackground": "#5F0F14",
     "list.inactiveSelectionForeground": "#E1E4E8",
     "list.activeSelectionBackground": "#54090E",
     "list.inactiveSelectionBackground": "#54090E",
     "list.activeSelectionForeground": "#E1E4E8",
     "list.inactiveFocusBackground": "#1D2D3E",
     "list.focusBackground": "#54090E",
-    "list.focusOutline": "#4E3E65",
-    "list.focusAndSelectionOutline": "#4E3E65",
+    "list.focusOutline": "#6B0C10",
+    "list.focusAndSelectionOutline": "#6B0C10",
 
     "tree.indentGuidesStroke": "#2F363D",
 
@@ -133,9 +133,9 @@
     "editor.background": "#09100A",
     "editor.foreground": "#A3C1E8",
 
-    "editorWidget.background": "#7D191D",
+    "editorWidget.background": "#5F0F14",
     "editorHoverWidget.foreground": "#E1E4E8",
-    "editorHoverWidget.background": "#6B0C10",
+    "editorHoverWidget.background": "#5F0F14",
     "editorHoverWidget.border": "#6B0C10",
 
     "editor.foldBackground": "#58606915",

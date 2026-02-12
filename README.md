@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://bitcookies.nousbuild.com/pudding-vscode-theme/icon.png" align="center" alt="Pudding Icon" />
  <h2 align="center">Pudding Theme</h2>
- <p align="center">A Pudding illustrations color theme for Visual Studio Code</p>
+ <p align="center">A Pudding-inspired illustration color theme for Visual Studio Code</p>
 </p>
 <p align="center">
   <a href="https://github.com/bitcookies/pudding-vscode-theme/releases"><img src="https://img.shields.io/github/v/release/bitcookies/pudding-vscode-theme?label=version" /></a> <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Bitcookies/pudding-vscode-theme.svg" /></a> <a href="https://github.com/bitcookies/pudding-vscode-theme/issues"><img alt="Issues" src="https://img.shields.io/github/issues/bitcookies/pudding-vscode-theme?color=F48D73" /></a>

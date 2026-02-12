@@ -136,16 +136,16 @@
     "editorWidget.background": "#1F2235",
     "editorHoverWidget.foreground": "#E1E4E8",
     "editorHoverWidget.background": "#1F2235",
-    "editorHoverWidget.border": "#434260",
+    "editorHoverWidget.border": "#333451A0",
 
     "editor.foldBackground": "#58606915",
 
     "editor.lineHighlightBackground": "#313549B0",
-    "editorLineNumber.foreground": "#434260",
+    "editorLineNumber.foreground": "#333451A0",
     "editorLineNumber.activeForeground": "#A3C1E8",
     "editorIndentGuide.background": "#2F363D",
     "editorIndentGuide.activeBackground": "#4C5763",
-    "editorWhitespace.foreground": "#434260",
+    "editorWhitespace.foreground": "#333451A0",
     "editorCursor.foreground": "#c8e1ff",
     "editorError.foreground": "#F97583",
     "editorWarning.foreground": "#F9C513",
@@ -172,14 +172,14 @@
     "diffEditor.removedTextBackground": "#d73a4930",
 
     "scrollbar.shadow": "#0008",
-    "scrollbarSlider.activeBackground": "#313549DF",
-    "scrollbarSlider.background": "#31354980",
-    "scrollbarSlider.hoverBackground": "#313549CA",
+    "scrollbarSlider.activeBackground": "#3B3D5DDF",
+    "scrollbarSlider.background": "#3B3D5D80",
+    "scrollbarSlider.hoverBackground": "#3B3D5DCA",
 
     "minimap.background": "#232437F0",
-    "minimapSlider.background": "#232437A0",
-    "minimapSlider.hoverBackground": "#232437B0",
-    "minimapSlider.activeBackground": "#232437C0",
+    "minimapSlider.background": "#232437B0",
+    "minimapSlider.hoverBackground": "#232437C0",
+    "minimapSlider.activeBackground": "#232437B0",
 
     "editorOverviewRuler.border": "#313549",
 

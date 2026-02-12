@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 3.1.2
+
++ Further refined semantic token color consistency across all themes  
++ Improved editor selection, inactive selection, and find-match contrast balance  
++ Optimized panel, sidebar, and tab background layering hierarchy  
++ Fine-tuned hover widget borders and foreground readability  
++ Adjusted minimap and overview ruler highlight visibility  
++ Improved terminal ANSI color contrast consistency  
++ Minor UI polish and visual refinements ✨  
+
 ## 3.1.1
 
 + Refined semantic color tokens for improved cross-theme consistency  
@@ -11,8 +21,6 @@ All notable changes to this project will be documented in this file.
 + Improved tab and panel background layering hierarchy  
 + Fine-tuned scrollbar, minimap, and overview ruler transparency  
 + Minor UI polish and visual consistency improvements across all themes ✨  
-
----
 
 ## 3.1.0
 
@@ -29,15 +37,11 @@ All notable changes to this project will be documented in this file.
 + Minor visual refinements and polish across all themes ✨  
 + Happy Lunar New Year 2026 🏮  
 
----
-
 ## 3.0.1
 
 + Adjusted editor group drop background color  
 + Updated README and keywords  
 + Happy Lunar New Year 2026 🏮  
-
----
 
 ## 3.0.0
 
@@ -46,8 +50,6 @@ All notable changes to this project will be documented in this file.
 + Updated theme naming conventions  
 + Removed the **Aquarium** theme in `v3.x` (available in `v2.x` if needed)  
 + Happy New Year 2026 🏮  
-
----
 
 ## 2.1.3
 

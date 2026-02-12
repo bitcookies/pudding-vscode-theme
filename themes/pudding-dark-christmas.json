@@ -141,11 +141,11 @@
     "editor.foldBackground": "#58606915",
 
     "editor.lineHighlightBackground": "#6B0C10B0",
-    "editorLineNumber.foreground": "#444D56",
+    "editorLineNumber.foreground": "#1E3621A0",
     "editorLineNumber.activeForeground": "#A3C1E8",
     "editorIndentGuide.background": "#2F363D",
     "editorIndentGuide.activeBackground": "#4C5763",
-    "editorWhitespace.foreground": "#444D56",
+    "editorWhitespace.foreground": "#1E3621A0",
     "editorCursor.foreground": "#c8e1ff",
     "editorError.foreground": "#F97583",
     "editorWarning.foreground": "#F9C513",
@@ -177,9 +177,9 @@
     "scrollbarSlider.hoverBackground": "#6B0C10EA",
 
     "minimap.background": "#0F1B11F0",
-    "minimapSlider.background": "#0F1B1190",
-    "minimapSlider.hoverBackground": "#0F1B11B0",
-    "minimapSlider.activeBackground": "#0F1B11C0",
+    "minimapSlider.background": "#0F1B11B0",
+    "minimapSlider.hoverBackground": "#0F1B11C0",
+    "minimapSlider.activeBackground": "#0F1B11B0",
 
     "editorOverviewRuler.border": "#011008",
 

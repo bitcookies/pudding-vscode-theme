@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 3.1.3
+
++ Adjusted editor fold background in Light themes for better visual integration  
++ Adjusted `tmTheme` highlight foreground color
+
 ## 3.1.2
 
 + Further refined semantic token color consistency across all themes  

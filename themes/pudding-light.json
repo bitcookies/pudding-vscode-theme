@@ -39,7 +39,7 @@
     "input.placeholderForeground": "#55403D",
 
     "badge.foreground": "#C4534C",
-    "badge.background": "#FFCEC7",
+    "badge.background": "#E8D34D",
 
     "progressBar.background": "#F9CB7E",
 
@@ -54,7 +54,7 @@
     "activityBar.background": "#DC975A",
 
     "activityBarBadge.background": "#C4534C",
-    "activityBarBadge.foreground": "#FFCEC7",
+    "activityBarBadge.foreground": "#E8D34D",
 
     "activityBar.activeBorder": "#EFDB59",
     "activityBar.border": "#E59B60",

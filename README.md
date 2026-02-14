@@ -10,8 +10,6 @@
   <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.zh-CN.md">简体中文</a> | <a href="https://github.com/bitcookies/pudding-vscode-theme/blob/main/README.md">English</a>
 </p>
 
-
-
 ## 1. Pudding Theme
 
 Visual Studio Code Pudding theme is constantly updated with a variety of color themes.
@@ -60,11 +58,11 @@ Please delete the code at the beginning of the tmTheme file that looks like this
 	<key>settings</key>
 	<dict>
 		<key>background</key>
-		<string>#222222</string>
+		<string>#HEX</string>
 		......
 		......
 		<key>invisibles</key>
-		<string>#3b3a32</string>
+		<string>#HEX</string>
 	</dict>
 </dict>
 ```
@@ -74,7 +72,7 @@ Please delete the code at the beginning of the tmTheme file that looks like this
 After Clone this code repository, put the modified tmTheme file into `themes/tmTheme/` directory, then find the theme color scheme json file you want to modify under `themes/`, open it and modify the tokenColors link at the bottom to introduce your tmTheme file.
 
 ```json
-"tokenColors": "./tmTheme/your.tmTheme"
+"tokenColors": "./tmTheme/<TextMate>.tmTheme"
 ```
 
 ## 5. Feedback

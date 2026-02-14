@@ -1,5 +1,6 @@
 {
   "name": "Pudding Light · JK",
+  "type": "light",
   "colors": {
     "focusBorder": "#78ABD6",
     "foreground": "#8695A8",

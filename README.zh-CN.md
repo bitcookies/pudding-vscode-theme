@@ -59,11 +59,11 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 	<key>settings</key>
 	<dict>
 		<key>background</key>
-		<string>#222222</string>
+		<string>#HEX</string>
 		......
 		......
 		<key>invisibles</key>
-		<string>#3b3a32</string>
+		<string>#HEX</string>
 	</dict>
 </dict>
 ```
@@ -73,7 +73,7 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 Clone 此代码仓库后，将修改后的 tmTheme 文件放到 `themes/tmTheme/` 目录下，然后在 `themes/` 下找到你想要修改的主题配色 json 文件，打开后修改最底部的 tokenColors 链接，引入你的 tmTheme 文件即可。
 
 ```json
-"tokenColors": "./tmTheme/your.tmTheme"
+"tokenColors": "./tmTheme/<TextMate>.tmTheme"
 ```
 
 ## 5. 反馈

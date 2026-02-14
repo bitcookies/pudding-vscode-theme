@@ -1,5 +1,6 @@
 {
   "name": "Pudding Dark",
+  "type": "dark",
   "colors": {
     "focusBorder": "#434260",
     "foreground": "#D0D2DA",

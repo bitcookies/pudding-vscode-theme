@@ -13,9 +13,9 @@
 
     "textLink.foreground": "#F9CB7E",
     "textLink.activeForeground": "#DB8E51",
-    "textBlockQuote.background": "#24292E",
+    "textBlockQuote.background": "#434260",
     "textBlockQuote.border": "#434260",
-    "textCodeBlock.background": "#2F363D",
+    "textCodeBlock.background": "#252940",
     "textPreformat.foreground": "#D0D2DA",
     "textSeparator.foreground": "#586069",
 
@@ -79,16 +79,16 @@
     "list.focusOutline": "#4E3E65",
     "list.focusAndSelectionOutline": "#4E3E65",
 
-    "tree.indentGuidesStroke": "#2F363D",
+    "tree.indentGuidesStroke": "#252940",
 
     "banner.background": "#1B1C2B",
     "banner.foreground": "#EFEFEF",
     "banner.iconForeground": "#4794DE",
 
     "notificationCenterHeader.foreground": "#959DA5",
-    "notificationCenterHeader.background": "#24292E",
+    "notificationCenterHeader.background": "#434260",
     "notifications.foreground": "#E1E4E8",
-    "notifications.background": "#2F363D",
+    "notifications.background": "#252940",
     "notifications.border": "#313549",
     "notificationsErrorIcon.foreground": "#EA4A5A",
     "notificationsWarningIcon.foreground": "#FFAB70",
@@ -144,7 +144,7 @@
     "editor.lineHighlightBackground": "#313549B0",
     "editorLineNumber.foreground": "#333451A0",
     "editorLineNumber.activeForeground": "#A3C1E8",
-    "editorIndentGuide.background": "#2F363D",
+    "editorIndentGuide.background": "#252940",
     "editorIndentGuide.activeBackground": "#4C5763",
     "editorWhitespace.foreground": "#333451A0",
     "editorCursor.foreground": "#c8e1ff",
@@ -189,7 +189,7 @@
     "panelTitle.activeBorder": "#F9CB7E",
     "panelTitle.activeForeground": "#E1E4E8",
     "panelTitle.inactiveForeground": "#959DA5",
-    "panelInput.border": "#2F363D",
+    "panelInput.border": "#252940",
 
     "terminal.foreground": "#D0D2DA",
     "terminal.tab.activeBorder": "#F9CB7E",
@@ -230,7 +230,7 @@
     "editor.focusedStackFrameHighlightBackground": "#2b6a3033",
     "settings.headerForeground": "#E1E4E8",
     "settings.modifiedItemIndicator": "#0366D6",
-    "welcomePage.buttonBackground": "#2F363D",
+    "welcomePage.buttonBackground": "#252940",
     "welcomePage.buttonHoverBackground": "#434260"
   },
   "semanticHighlighting": true,

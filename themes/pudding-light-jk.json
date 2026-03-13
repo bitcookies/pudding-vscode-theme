@@ -15,7 +15,7 @@
     "textLink.activeForeground": "#3993B5",
     "textBlockQuote.background": "#FAFBFC",
     "textBlockQuote.border": "#78ABD6",
-    "textCodeBlock.background": "#2F363D",
+    "textCodeBlock.background": "#B2CEE0",
     "textPreformat.foreground": "#8695A8",
     "textSeparator.foreground": "#586069",
 
@@ -32,7 +32,7 @@
     "dropdown.background": "#FEFDFB",
     "dropdown.listBackground": "#FEFDFB",
     "dropdown.border": "#78ABD6",
-    "dropdown.foreground": "#7C96A5",
+    "dropdown.foreground": "#78ABD6",
 
     "input.background": "#FEFDFB",
     "input.border": "#60A0D6",
@@ -79,16 +79,16 @@
     "list.focusOutline": "#60A0D6",
     "list.focusAndSelectionOutline": "#60A0D6",
 
-    "tree.indentGuidesStroke": "#2F363D",
+    "tree.indentGuidesStroke": "#B2CEE0",
 
     "banner.background": "#EEF3F7",
     "banner.foreground": "#EFEFEF",
     "banner.iconForeground": "#4794DE",
 
     "notificationCenterHeader.foreground": "#6C84B0",
-    "notificationCenterHeader.background": "#7C96A5",
+    "notificationCenterHeader.background": "#78ABD6",
     "notifications.foreground": "#484F6C",
-    "notifications.background": "#2F363D",
+    "notifications.background": "#B2CEE0",
     "notifications.border": "#60A0D6",
     "notificationsErrorIcon.foreground": "#EA4A5A",
     "notificationsWarningIcon.foreground": "#FFAB70",
@@ -228,7 +228,7 @@
     "debugToolBar.background": "#FFF",
     "editor.stackFrameHighlightBackground": "#FFD33D33",
     "editor.focusedStackFrameHighlightBackground": "#28A74525",
-    "settings.headerForeground": "#2F363D",
+    "settings.headerForeground": "#B2CEE0",
     "settings.modifiedItemIndicator": "#DC975A",
     "welcomePage.buttonBackground": "#F6F8FA",
     "welcomePage.buttonHoverBackground": "#E59B60"

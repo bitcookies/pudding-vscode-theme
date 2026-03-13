@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 3.1.5
+
++ Adjusted notifications background and foreground color
+
 ## 3.1.4
 
 + This release brings a high-contrast dark theme: Pudding Dark · Caramel (Beta). Built upon the Pudding Dark theme, it enhances contrast while incorporating richer caramel tones.

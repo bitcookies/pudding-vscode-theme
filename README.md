@@ -31,7 +31,8 @@ Since this color scheme was originally intended for painting, there may be some 
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Light       |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |    Pudding Light · JK    |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> |       Pudding Dark       |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> | Pudding Dark · Christmas |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> |  Pudding Dark · Caramel  |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-6.png" width="400px"> | Pudding Dark · Christmas |
 
 ## 3. Install
 
@@ -40,8 +41,10 @@ Since this color scheme was originally intended for painting, there may be some 
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme). Currently the following themes are available.
 
    - Pudding Light
-   - Pudding Light Aquarium
+   - Pudding Light · JK
    - Pudding Dark
+   - Pudding Dark · Caramel
+   - Pudding Dark · Christmas
 
 With the update of the pudding clothing stand, the future will launch more thematic color scheme.
 

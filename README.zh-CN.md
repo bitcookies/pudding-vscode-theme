@@ -31,7 +31,8 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-2.png" width="400px"> |      Pudding Light       |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-3.png" width="400px"> |    Pudding Light · JK    |
 | <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-4.png" width="400px"> |       Pudding Dark       |
-| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> | Pudding Dark · Christmas |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-5.png" width="400px"> |  Pudding Dark · Caramel  |
+| <img src="https://bitcookies.nousbuild.com/pudding-vscode-theme/screenshot-6.png" width="400px"> | Pudding Dark · Christmas |
 
 ## 3. 安装
 
@@ -39,8 +40,10 @@ Visual Studio Code 布丁主题正在不断更新多款配色主题：
 2. 单击 “安装” 按钮。
 3. 然后[选择一个主题](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme)。目前有以下主题可用：
    - Pudding Light
-   - Pudding Light Aquarium
+   - Pudding Light · JK
    - Pudding Dark
+   - Pudding Dark · Caramel
+   - Pudding Dark · Christmas
 
 随着布丁插画的不断更新，未来也会继续退出更多主题配色。
 

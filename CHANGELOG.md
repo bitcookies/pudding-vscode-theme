@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 4.0.0
+
++ Pudding Dark · Caramel is now an official theme (removed Beta tag)  
++ Unified section ordering and formatting structure across all theme files  
++ Adjusted checkbox, banner, notifications, status bar remote, editor gutter, diff editor, peek view, minimap, keybinding label and more
++ Improved overall theme completeness and consistency ✨  
+
 ## 3.1.5
 
 + Adjusted notifications background and foreground color

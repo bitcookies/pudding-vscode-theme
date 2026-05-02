@@ -209,8 +209,8 @@
     "editorCursor.foreground": "#C8E1FF",
     "editorError.foreground": "#F97583",
     "editorWarning.foreground": "#FFEA7F",
-    "editor.findMatchBackground": "#FFDF5D",
-    "editor.findMatchHighlightBackground": "#FFDF5DA0",
+    "editor.findMatchBackground": "#FFDF5DB0",
+    "editor.findMatchHighlightBackground": "#FFDF5D80",
     "editor.findRangeHighlightBackground": "#B2CEE040",
     "editor.linkedEditingBackground": "#D1DDE930",
 

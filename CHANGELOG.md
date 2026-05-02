@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 4.0.1
+
++ Adjusted editor findMatchBackground and findMatchHighlightBackground
+
 ## 4.0.0
 
 + Pudding Dark · Caramel is now an official theme (removed Beta tag)  

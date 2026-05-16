@@ -268,6 +268,9 @@
     "panelTitle.inactiveForeground": "#6A737D",
     "panelInput.border": "#E59B60",
 
+    "chat.requestBubbleBackground": "#F1BD86",
+    "chat.requestBubbleHoverBackground": "#F1B576",
+
     "terminal.background": "#FEFAEC",
     "terminal.foreground": "#586069",
     "terminal.tab.activeBorder": "#F9826C",

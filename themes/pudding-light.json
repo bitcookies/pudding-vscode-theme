@@ -272,17 +272,17 @@
     "peekViewTitleLabel.foreground": "#945226",
 
     "scrollbar.shadow": "#DDD",
-    "scrollbarSlider.activeBackground": "#ABABA0DF",
-    "scrollbarSlider.background": "#ABABA080",
-    "scrollbarSlider.hoverBackground": "#ABABA0CA",
+    "scrollbarSlider.activeBackground": "#ABABA0C0",
+    "scrollbarSlider.background": "#ABABA040",
+    "scrollbarSlider.hoverBackground": "#ABABA080",
 
     "minimap.background": "#E9DDCFD0",
     "minimap.selectionHighlight": "#94522640",
     "minimap.errorHighlight": "#CB2431",
     "minimap.warningHighlight": "#E36209",
-    "minimapSlider.background": "#D9DDCFB0",
-    "minimapSlider.hoverBackground": "#D9DDCFC0",
-    "minimapSlider.activeBackground": "#D9DDCFB0",
+    "minimapSlider.background": "#ABABA040",
+    "minimapSlider.hoverBackground": "#ABABA080",
+    "minimapSlider.activeBackground": "#ABABA0C0",
 
     "editorOverviewRuler.border": "#E8D2BC",
 

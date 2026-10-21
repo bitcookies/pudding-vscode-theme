@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 4.1.0
+
++ Refined chat, Copilot, Codex, and Agent interface colors across all five themes
++ Improved menu, hover, separator, editor line number, indentation guide, and find-match colors
++ Standardized minimap and scrollbar slider transparency across all themes
++ Refined Christmas red tones and restored subtle surface contrast in Pudding Dark · Caramel
+
 ## 4.0.2
 
 + Adjusted chat.request bubble background and hover background
